@@ -111,7 +111,9 @@ section {
   font-weight: 500; }
 
 .mbr-bold {
-  font-weight: 700; }
+  font-weight: 700;
+  color: #000;
+}
 
 /*! Media  */
 .media-size-item {

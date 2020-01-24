@@ -51,6 +51,7 @@ body {
 .display-7 {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
+  color: #000;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.6rem;
@@ -2579,7 +2580,7 @@ body {
   height: 6rem;
 }
 .cid-rgGgRPqPpj .mbr-text {
-  color: #767676;
+  color: #000;
 }
 @media (max-width: 767px) {
   .cid-rgGgRPqPpj .footer-lower .copyright {
@@ -2627,5 +2628,5 @@ body {
 .cid-rgGgRR7IJo {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #fff;
 }
