@@ -51,6 +51,12 @@ body {
 .display-7 {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
+  color: #FFF;
+}
+.block-text.display-7 {
+  color: #000;
+}
+.mbr-text.display-7 {
   color: #000;
 }
 .display-7 > .mbr-iconfont {
@@ -2626,4 +2632,7 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #fff;
+}
+html {
+  filter: grayscale(1);
 }
