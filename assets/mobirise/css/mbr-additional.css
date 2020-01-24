@@ -1702,7 +1702,7 @@ body {
   letter-spacing: .2rem;
 }
 .cid-rgE1IHAUk3 .media-container-column {
-  background-color: #f4b2bf;
+  background-color: #FFF;
 }
 @media (max-width: 767px) {
   .cid-rgE1IHAUk3 .media-container-column {
@@ -1884,7 +1884,6 @@ body {
 .cid-rgEk2t7Nbr {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/michael-mroczek-451829-unsplash-2000x1333.jpg");
 }
 .cid-rgEk2t7Nbr h4 {
   font-weight: 500;
@@ -1892,7 +1891,7 @@ body {
   text-align: left;
 }
 .cid-rgEk2t7Nbr p {
-  color: #767676;
+  color: #000;
   text-align: left;
 }
 .cid-rgEk2t7Nbr .card-box {
@@ -2472,7 +2471,6 @@ body {
 .cid-rgGgRGAB0A {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/jo-szczepanska-57782-unsplash-1-2000x1333.jpg");
 }
 .cid-rgLBuPZXbX {
   padding-top: 45px;
@@ -2544,7 +2542,6 @@ body {
 .cid-rgGgRNwIen {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/michael-mroczek-451829-unsplash-2000x1333.jpg");
 }
 .cid-rgGgRNwIen h4 {
   font-weight: 500;
@@ -2552,7 +2549,7 @@ body {
   text-align: left;
 }
 .cid-rgGgRNwIen p {
-  color: #767676;
+  color: #000;
   text-align: left;
 }
 .cid-rgGgRNwIen .card-box {
