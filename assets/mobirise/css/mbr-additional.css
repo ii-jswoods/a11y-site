@@ -149,8 +149,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #ff7f9f !important;
-  border-color: #ff7f9f !important;
+  background-color: #000 !important;
+  border-color: #000 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -552,7 +552,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #ff7f9f;
+  color: #000;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -1709,14 +1709,14 @@ body {
   }
 }
 .cid-rgE1IHAUk3 H1 {
-  color: #cc2952;
+  color: #cc0000;
 }
 .cid-rgE1IHAUk3 H3 {
-  color: #ffffff;
+  color: #696969;
 }
 .cid-rgE1IHAUk3 .mbr-text,
 .cid-rgE1IHAUk3 .mbr-section-btn {
-  color: #ffffff;
+  color: #696969;
 }
 .cid-rgEeWAbpLh {
   padding-top: 45px;
